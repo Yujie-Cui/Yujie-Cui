@@ -1,16 +1,14 @@
-### Hi there 👋
 
-<!--
-**Yujie-Cui/Yujie-Cui** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<img src="https://github-readme-stats.vercel.app/api?username=Yujie-Cui&hide_border=true&show_icons=true&theme=highcontrast" height="150" align="right" style="margin: 5px; margin-bottom: 20px;" />
 
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### Hi there, this is Yujie-Cui 👋
+
+
+
+👨‍🎓 I am now a PhD student at Peking University.
+
+❤️  My research interests comprise high performance microprocessor, side-channel attacks and defenses.
+
+
+
